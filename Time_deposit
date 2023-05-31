@@ -8,6 +8,6 @@
 <extensionpoint>
 <location>EXTENSION_MENU</location>
 <label>Time Deposit Opening</label>
-<url>	https://corebanking-dev.akbank.de/deposit/timedeposit-account/opening</url>
+<url>https://corebanking-dev.akbank.de/deposit/timedeposit-account/opening</url>
 </extensionpoint>
 </app>
