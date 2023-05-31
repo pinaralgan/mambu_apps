@@ -1,0 +1,13 @@
+<app>
+<id>TimeDepositApp001</id>
+<name>Time Deposit Opening</name>
+<provider>Akbank AG-Innovance</provider>
+<description>Time Deposit Opening</description>
+<uninstallUrl></uninstallUrl>
+<installUrl></installUrl>
+<extensionpoint>
+<location>EXTENSION_MENU</location>
+<label>Time Deposit Opening</label>
+<url>https://corebanking-dev.akbank.de/deposit/timedeposit-account/opening</url>
+</extensionpoint>
+</app>
